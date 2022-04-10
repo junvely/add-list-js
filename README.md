@@ -1,2 +1,2 @@
-# add-list-js
-상품리스트 추가하기-js
+# add-product-list
+상품리스트 추가하기
