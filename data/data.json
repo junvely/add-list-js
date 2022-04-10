@@ -1,0 +1,76 @@
+{
+  "mobileItems": [
+    {
+      "type": "galaxy1",
+      "color": "black",
+      "memory": "256G",
+      "price": "1,254,000원",
+      "title": "Galaxy Z Flip3 5G",
+      "img": "img/smartPhone_best1.png"
+    },
+    {
+      "type": "galaxy2",
+      "color": "pink",
+      "memory": "256G",
+      "price": "999,900원",
+      "title": "Galaxy S21 5G",
+      "img": "img/smartPhone_best2.png"
+    },
+    {
+      "type": "galaxy3",
+      "color": "violet",
+      "memory": "256G",
+      "price": "374,000원",
+      "title": "Galaxy A32",
+      "img": "img/smartPhone_best3.png"
+    },
+    {
+      "type": "galaxy1",
+      "color": "black",
+      "memory": "256G",
+      "price": "1,254,000원",
+      "title": "Galaxy Z Flip3 5G",
+      "img": "img/smartPhone_best1.png"
+    },
+    {
+      "type": "galaxy2",
+      "color": "pink",
+      "memory": "256G",
+      "price": "999,900원",
+      "title": "Galaxy S21 5G",
+      "img": "img/smartPhone_best2.png"
+    },
+    {
+      "type": "galaxy3",
+      "color": "violet",
+      "memory": "256G",
+      "price": "374,000원",
+      "title": "Galaxy A32",
+      "img": "img/smartPhone_best3.png"
+    },
+    {
+      "type": "galaxy1",
+      "color": "black",
+      "memory": "256G",
+      "price": "1,254,000원",
+      "title": "Galaxy Z Flip3 5G",
+      "img": "img/smartPhone_best1.png"
+    },
+    {
+      "type": "galaxy2",
+      "color": "pink",
+      "memory": "256G",
+      "price": "999,900원",
+      "title": "Galaxy S21 5G",
+      "img": "img/smartPhone_best2.png"
+    },
+    {
+      "type": "galaxy3",
+      "color": "violet",
+      "memory": "256G",
+      "price": "374,000원",
+      "title": "Galaxy A32",
+      "img": "img/smartPhone_best3.png"
+    }
+  ]
+}
